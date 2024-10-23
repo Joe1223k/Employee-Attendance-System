@@ -1,45 +1,19 @@
-# Employee Attendance Management System
+従業員出勤管理システム
+従業員の出勤管理、健康チェック、日々の業務報告を管理するためのモダンなWebアプリケーション。
 
-A modern web application for managing employee attendance, health checks, and daily work reports.
-
-## Features
-
-- ⏰ Time tracking with check-in/check-out functionality
-- ⌚️ Real-time working hours calculation
-- 🏥 Daily health check monitoring
-- 📝 Work report submission
-- 💫 Beautiful, responsive UI with Tailwind CSS
-- 🔧 Built with React + TypeScript
-
-## Tech Stack
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Lucide Icons
-- Vite
-
-## Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm run dev
-```
-
-4. Build for production
-```bash
-npm run build
-```
+機能
+⏰ 出退勤の記録（チェックイン/チェックアウト機能）
+⌚️ 実働時間のリアルタイム計算
+🏥 日々の健康チェックのモニタリング
+📝 業務報告書の提出
+💫 美しく、レスポンシブなUI（Tailwind CSSを使用）
+🔧 React + TypeScriptで構築
+技術スタック
+React 18
+TypeScript
+Tailwind CSS
+Lucide Icons
+Vite
 
 ## Live Demo
 
